@@ -5,7 +5,11 @@ Prototype for Interactive Ellie hallway visualization
 
 ## Description
 
+<<<<<<< HEAD
 Discription project coming soon....
+=======
+T.B.A
+>>>>>>> a1b9fec3ef714c3945a5da2e3f1660acfeb8b085
 
 ## Installation
 
